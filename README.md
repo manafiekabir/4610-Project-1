@@ -13,7 +13,8 @@ The current scenario involves creating a relational database for a tennis club t
 
 ## Data Model
 <img width="660" alt="finalGroupDM" src="https://github.com/manafiekabir/4610-Project-1/assets/163012589/11b1af97-7dd3-49f3-8edf-e3f2ada6a5ba">
-#
+
 ## Data Dictionary
+
 ## Queries:
 ## Database Information:
