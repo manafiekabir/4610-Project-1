@@ -19,9 +19,9 @@ Starting with entities one and two from our client, we created a many to many re
 Next, members can belong to many coaching programs and coaching programs have multiple members present in them. These two entities form an associative entity, sessions. Coaching programs and members may also at times have no sessions. Additionally, the coaching programs are led by coaches. Coaches have a one to many relationship with coaching programs, as one coach can teach many coaching programs, but a coaching program can only be led by one coach at a time. Additionally, the coaches entity has a one to many relationship with the court reservation entity as a coach can make multiple court reservations, but a reservation can only belong to one coach.
 Members can belong to many tennis leagues, and a tennis league is made up of many members. These two entities have a many to many relationship, which results to an associative entity divisions. The Pro Shop Inventory entity can belong to many transactions, and the transactions can consist of multiple pro shop items. These two entities resulted in an associative entity, transaction details. Additionally, members can make multiple transactions from the proshop, but a singular transaction can only belong to one member. Our general staff entity can perform maintenance on multiple courts, and each court can have multiple faculty working on its upkeep. Thus an associative entity maintenance request is created to symbolize this many to many relationship.
 
-## Data Dictionary:
 <img width="660" alt="finalGroupDM" src="https://github.com/manafiekabir/4610-Project-1/assets/163012589/11b1af97-7dd3-49f3-8edf-e3f2ada6a5ba">
 
+## Data Dictionary:
 <img width="521" alt="coachingprograms" src="https://github.com/nickprice347/MIST4610-Project-1/assets/163012519/f4a7c03f-5774-4bd5-9c5b-9ebd96393c7f">
 
 <img width="521" alt="coaches" src="https://github.com/nickprice347/MIST4610-Project-1/assets/163012519/ee58d532-33d9-4435-bd41-e2f862629e5a">
@@ -50,7 +50,7 @@ Members can belong to many tennis leagues, and a tennis league is made up of man
 
 
 ## Queries:
-
+<img width="437" alt="querychart" src="https://github.com/nickprice347/MIST4610-Project-1/assets/163012519/f499139d-f099-4d1b-9a7d-27258c4e3460">
 Query 1 Description:
 
 Query 1 lists the ID of the members who have not made any court reservations at the time. 
