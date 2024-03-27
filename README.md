@@ -58,7 +58,7 @@ Members can belong to many tennis leagues, and a tennis league is made up of man
 
 Query 1 Description:
 
-Query 1 lists the ID of the members who have not made any court reservations at the time. 
+Query 1 lists the names of the members who have not made any court reservations at the time. 
 
 <img width="663" alt="Screenshot 2024-03-26 at 6 36 02 PM" src="https://github.com/avanish-thota27/MIST4610GroupProject01/assets/152564332/ad2a5f52-f230-4d0b-b8bb-a38f2811dcf1">
 
